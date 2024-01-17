@@ -1,0 +1,11 @@
+{
+    "education": [{
+        "degree": "Bachelor of Science",
+        "university": "Universitas Gadjah Mada (UGM)",
+        "subject": "Electronics and Instrumentation"
+    },{
+        "degree":"Master of Management",
+        "university": "Institut Teknologi Sepuluh Nopember (ITS)",
+        "subject": "Technology Management"
+    }]
+}

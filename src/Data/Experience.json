@@ -1,0 +1,44 @@
+{
+    "experience": [
+        {
+            "position": "Assistant Engineer of Coal and Ash Handling Maintenance",
+            "department": "Maintenanance",
+            "company": "PT PLN (Persero) UPK Asam Asam",
+            "start": "Apr 2019",
+            "finish": "Jun 2019",
+            "description": ""
+        },
+        {
+            "position": "Assistant Engineer of Predictive Maintenance",
+            "department": "Engineering",
+            "company": "PT PLN (Persero) UPK Asam Asam",
+            "start": "Jul 2019",
+            "finish": "Jun 2022",
+            "description": ""
+        },
+        {
+            "position": "Assistant Engineer of Instrumentation and Control Maintenance",
+            "department": "Maintenanance",
+            "company": "PT PLN (Persero) UPK Asam Asam",
+            "start": "Jul 2022",
+            "finish": "Dec 2022",
+            "description": ""
+        },
+        {
+            "position": "Team Leader of Instrumentation and Control Maintenance",
+            "department": "Maintenanance",
+            "company": "PT PLN Indonesia Power UPK Asam Asam",
+            "start": "Jan 2023",
+            "finish": "Jul 2023",
+            "description": ""
+        },
+        {
+            "position": "Officer of Formal Education Management",
+            "department": "Formal Education",
+            "company": "PT PLN Pusat Pendidikan dan Pelatihan",
+            "start": "Aug 2023",
+            "finish": "Now",
+            "description": ""
+        }
+    ]
+}
